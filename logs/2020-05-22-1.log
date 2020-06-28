@@ -1,0 +1,67 @@
+[06:48:34] [User Authenticator #5/INFO]: UUID of player gabbazalu is 68ffb56a-5c15-45a5-b27f-d367953ff49f
+[06:48:34] [Server thread/INFO]: gabbazalu[/101.114.230.202:49375] logged in with entity id 17841 at (-181.76249998807907, 63.0, -233.12047468913403)
+[06:48:34] [Server thread/INFO]: gabbazalu joined the game
+[06:48:52] [Server thread/INFO]: gabbazalu lost connection: Disconnected
+[06:48:52] [Server thread/INFO]: gabbazalu left the game
+[06:49:06] [User Authenticator #6/INFO]: UUID of player gabbazalu is 68ffb56a-5c15-45a5-b27f-d367953ff49f
+[06:49:06] [Server thread/INFO]: gabbazalu[/101.114.230.202:49397] logged in with entity id 17891 at (-180.66345993519434, 63.0, -232.97893089909275)
+[06:49:06] [Server thread/INFO]: gabbazalu joined the game
+[06:49:07] [User Authenticator #7/INFO]: UUID of player 123BIG_Mac321 is db6d391e-8066-4671-90c1-f8d9a614abb3
+[06:49:07] [Server thread/INFO]: 123BIG_Mac321[/101.114.230.202:49969] logged in with entity id 17910 at (-187.1380404513212, 63.0, -231.66089278646206)
+[06:49:07] [Server thread/INFO]: 123BIG_Mac321 joined the game
+[06:49:54] [Server thread/INFO]: <123BIG_Mac321> heye
+[07:27:49] [Server thread/WARN]: 123BIG_Mac321 was kicked for floating too long!
+[07:27:49] [Server thread/INFO]: 123BIG_Mac321 lost connection: Flying is not enabled on this server
+[07:27:49] [Server thread/INFO]: 123BIG_Mac321 left the game
+[07:27:57] [User Authenticator #8/INFO]: UUID of player 123BIG_Mac321 is db6d391e-8066-4671-90c1-f8d9a614abb3
+[07:27:57] [Server thread/INFO]: 123BIG_Mac321[/101.114.230.202:50040] logged in with entity id 24452 at (-187.70000002533197, 67.0000002, -200.70000002533197)
+[07:27:57] [Server thread/INFO]: 123BIG_Mac321 joined the game
+[07:28:03] [Server thread/INFO]: <123BIG_Mac321> HIAIIAA
+[07:59:05] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/28965, l='world', x=-117.18, y=63.00, z=-201.76]
+[08:16:30] [Server thread/INFO]: 123BIG_Mac321 lost connection: Disconnected
+[08:16:30] [Server thread/INFO]: 123BIG_Mac321 left the game
+[08:21:02] [User Authenticator #9/INFO]: UUID of player 123BIG_Mac321 is db6d391e-8066-4671-90c1-f8d9a614abb3
+[08:21:03] [Server thread/INFO]: 123BIG_Mac321[/101.114.230.202:50482] logged in with entity id 32057 at (-184.1767637525055, 63.0, -220.09791816088565)
+[08:21:03] [Server thread/INFO]: 123BIG_Mac321 joined the game
+[08:24:30] [Server thread/INFO]: <123BIG_Mac321> HEHEYE
+[08:37:31] [Server thread/INFO]: gabbazalu was shot by Skeleton
+[08:53:10] [Server thread/INFO]: 123BIG_Mac321 fell from a high place
+[08:53:42] [Server thread/INFO]: 123BIG_Mac321 fell from a high place
+[08:53:43] [Server thread/WARN]: 123BIG_Mac321 moved too quickly! -11.20389461867876,52.0000002,26.49685063326612
+[09:02:50] [Server thread/INFO]: gabbazalu lost connection: Disconnected
+[09:02:50] [Server thread/INFO]: gabbazalu left the game
+[09:03:22] [Server thread/INFO]: 123BIG_Mac321 lost connection: Disconnected
+[09:03:22] [Server thread/INFO]: 123BIG_Mac321 left the game
+[13:10:10] [User Authenticator #10/INFO]: UUID of player 123BIG_Mac321 is db6d391e-8066-4671-90c1-f8d9a614abb3
+[13:10:10] [Server thread/INFO]: 123BIG_Mac321[/101.114.230.202:51149] logged in with entity id 39440 at (-182.70665862666502, 67.0, -199.9841835648307)
+[13:10:10] [Server thread/INFO]: 123BIG_Mac321 joined the game
+[13:10:53] [User Authenticator #11/INFO]: UUID of player gabbazalu is 68ffb56a-5c15-45a5-b27f-d367953ff49f
+[13:10:53] [Server thread/INFO]: gabbazalu[/101.114.230.202:53148] logged in with entity id 39528 at (-188.17185446602855, 63.0, -201.2380688894337)
+[13:10:53] [Server thread/INFO]: gabbazalu joined the game
+[13:30:19] [Server thread/INFO]: <123BIG_Mac321> heiie
+[13:45:25] [Server thread/INFO]: gabbazalu was blown up by Creeper
+[13:46:23] [Server thread/INFO]: gabbazalu was shot by Skeleton
+[13:47:16] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/46914, l='world', x=-113.77, y=63.00, z=-201.23]
+[13:47:16] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/46914, l='world', x=-113.77, y=63.00, z=-201.23]
+[13:56:28] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/48358, l='world', x=-116.45, y=63.00, z=-201.95]
+[14:14:02] [Server thread/WARN]: gabbazalu moved too quickly! 5.0894274897254945,-3.0,-8.221013938527264
+[14:14:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2250ms or 45 ticks behind
+[14:15:28] [Server thread/INFO]: <123BIG_Mac321> 165 120 village
+[14:19:33] [Server thread/INFO]: gabbazalu was shot by Skeleton
+[14:25:08] [Server thread/INFO]: gabbazalu hit the ground too hard
+[14:25:45] [Server thread/INFO]: 123BIG_Mac321 fell from a high place
+[14:25:47] [Server thread/WARN]: 123BIG_Mac321 moved too quickly! 97.7022894680257,-0.9999997999999977,-60.017757196476566
+[14:26:14] [Server thread/INFO]: <123BIG_Mac321> 742 264 village with carrots and potato
+[14:28:31] [Server thread/INFO]: 123BIG_Mac321 has made the advancement [Best Friends Forever]
+[14:31:11] [Server thread/INFO]: <123BIG_Mac321> t
+[14:32:55] [Server thread/WARN]: gabbazalu was kicked for floating too long!
+[14:32:55] [Server thread/INFO]: gabbazalu lost connection: Flying is not enabled on this server
+[14:32:55] [Server thread/INFO]: gabbazalu left the game
+[14:33:00] [User Authenticator #12/INFO]: UUID of player gabbazalu is 68ffb56a-5c15-45a5-b27f-d367953ff49f
+[14:33:00] [Server thread/INFO]: gabbazalu[/101.114.230.202:55228] logged in with entity id 59657 at (-187.70000002533197, 67.0000002, -200.70000002533197)
+[14:33:00] [Server thread/INFO]: gabbazalu joined the game
+[14:35:14] [Server thread/INFO]: <gabbazalu> X -197 Z -214
+[14:50:08] [Server thread/INFO]: 123BIG_Mac321 lost connection: Disconnected
+[14:50:08] [Server thread/INFO]: 123BIG_Mac321 left the game
+[14:50:33] [Server thread/INFO]: gabbazalu lost connection: Disconnected
+[14:50:33] [Server thread/INFO]: gabbazalu left the game

@@ -1,0 +1,46 @@
+[17:56:16] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:56:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:56:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:56:16] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:56:16] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:56:16] [main/INFO]: Reloading ResourceManager: Default
+[17:56:19] [Worker-Main-2/INFO]: Loaded 7 recipes
+[17:56:20] [Worker-Main-2/INFO]: Loaded 927 advancements
+[17:56:23] [Server thread/INFO]: Starting minecraft server version 1.16.1
+[17:56:23] [Server thread/INFO]: Loading properties
+[17:56:23] [Server thread/INFO]: Default game type: SURVIVAL
+[17:56:23] [Server thread/INFO]: Generating keypair
+[17:56:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:56:24] [Server thread/INFO]: Using epoll channel type
+[17:56:24] [Server thread/INFO]: Preparing level "world"
+[17:56:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:56:28] [Server thread/INFO]: Preparing spawn area: 0%
+[17:56:28] [Server thread/INFO]: Preparing spawn area: 0%
+[17:56:28] [Server thread/INFO]: Preparing spawn area: 0%
+[17:56:28] [Server thread/INFO]: Preparing spawn area: 0%
+[17:56:28] [Server thread/INFO]: Preparing spawn area: 0%
+[17:56:28] [Server thread/INFO]: Preparing spawn area: 0%
+[17:56:28] [Server thread/INFO]: Preparing spawn area: 0%
+[17:56:28] [Server thread/INFO]: Preparing spawn area: 0%
+[17:56:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:56:30] [Server thread/INFO]: Preparing spawn area: 0%
+[17:56:30] [Server thread/INFO]: Preparing spawn area: 0%
+[17:56:30] [Server thread/INFO]: Preparing spawn area: 78%
+[17:56:31] [Server thread/INFO]: Time elapsed: 6550 ms
+[17:56:31] [Server thread/INFO]: Done (6.823s)! For help, type "help"
+[17:56:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2124ms or 42 ticks behind
+[17:56:45] [User Authenticator #1/INFO]: UUID of player gabbazalu is 68ffb56a-5c15-45a5-b27f-d367953ff49f
+[17:56:46] [Server thread/INFO]: gabbazalu[/101.114.144.194:52191] logged in with entity id 646 at (-187.18658878688407, 59.0, -202.69385096598472)
+[17:56:46] [Server thread/INFO]: gabbazalu joined the game
+[17:57:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21855ms or 437 ticks behind
+[17:57:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[17:58:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[17:58:53] [Server thread/INFO]: gabbazalu lost connection: Disconnected
+[17:58:53] [Server thread/INFO]: gabbazalu left the game
+[17:58:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[17:59:18] [User Authenticator #2/INFO]: UUID of player gabbazalu is 68ffb56a-5c15-45a5-b27f-d367953ff49f
+[17:59:18] [Server thread/INFO]: gabbazalu[/101.114.144.194:52259] logged in with entity id 854 at (-187.18658878688407, 59.0, -202.69385096598472)
+[17:59:18] [Server thread/INFO]: gabbazalu joined the game
+[17:59:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[17:59:28] [Server thread/INFO]: gabbazalu lost connection: Disconnected
+[17:59:28] [Server thread/INFO]: gabbazalu left the game
